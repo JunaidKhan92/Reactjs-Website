@@ -1,0 +1,639 @@
+@media screen and (max-width: 980px) {
+  .header-left-Section h3 {
+    font-size: 22px;
+  
+  }
+  .herder-right-section{
+    width: 65%;
+  }
+  .herder-right-section ul {
+    gap: 1.3rem;
+  }
+  
+  .herder-right-section ul li a {
+    font-size: 14px;
+  }
+  .herder-right-section ul li .b::after {
+  
+    width: 10%;
+
+  }
+  .hero-section {
+    height: fit-content;
+  }
+
+  .section-left {
+    width: 45%;
+    padding: 0.7rem;
+
+  }
+
+  .section-left-titel {
+    font-size: 22px;
+
+  }
+
+  .section-right {
+    width: 55%;
+  }
+  .section-left button {
+    padding: 0.7rem 2rem;
+  }
+  .section-right-img {
+    width: 100%;
+    height:fit-content;
+    left: -10px;
+  }
+  
+  .section-right-img img {
+    height: 500px;
+    object-fit: cover;
+  }
+  .section-left-p {
+    font-size: 16px;
+  }
+
+.welcom-section-left {
+  width: 55%;
+}
+
+.welcom-section-left-titel {
+  padding-top: 1rem;
+  font-size: 32px;
+}
+
+.welcom-section-left-para {
+  font-size: 15px;
+}
+
+.welcom-section-right {
+  width: 45%;
+}
+
+/* PAr */
+
+.Catagori-Section {
+  margin-top: 3rem;
+}
+
+.Catagori-Section-intro {
+  width: 100%;
+}
+
+.Catagori-Section-intro p {
+  font-size: 16px;
+  color: rgb(25, 25, 247);
+}
+
+.Catagori-Section-titel {
+  font-size: 20px;
+}
+
+.Catagori-Section-courses {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  padding: 3rem;
+  gap: 1rem;
+  /* border: 1px solid; */
+}
+
+.courses-box {
+  width: 48%;
+  padding: 1.5rem;
+}
+
+.Courses-Section {
+  width: 100%;
+  height: fit-content;
+  margin-top: 3rem;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 2rem;
+}
+
+
+.Courses-Section-para p {
+  font-size: 14px;
+  color: rgb(25, 25, 247);
+}
+
+.Courses-Section-titel {
+  font-size: 20px;
+}
+
+.Courses-Section-box {
+  padding: 2rem;
+  gap: 1rem;
+  /* border: 1px solid; */
+}
+
+.Courses-div {
+  width: 50%;
+}
+
+.Course-box-img {
+  width: 100%;
+  height: fit-content;
+  overflow: hidden;
+  transition: 1s;
+}
+
+
+.Course-box-titel {
+  width: 100%;
+  height: fit-content;
+}
+
+.Course-box-titel h2 {
+  font-size: 20px;
+}
+
+
+.Teacher-Contanier {
+  margin-top: 2rem;
+}
+
+.Teacher-Contanier-intro p {
+  text-align: center;
+  color: rgb(253, 253, 253);
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+.Teacher-Contanier-titel h2 {
+  font-size: 36px;
+  padding-bottom: 1rem;
+}
+
+.Teacher-Contanier-div {
+  width: 100%;
+  height: 500px;
+  /* border: 1px solid; */
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 1rem;
+  overflow-x: auto;
+  /* overscroll-behavior: x; */
+}
+
+.Teachers-box {
+  width: 50%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  /* border: 1px solid; */
+  /* scroll-snap-align: center; */
+}
+
+.Teachers-box-top {
+  width: 100%;
+  overflow: hidden;
+}
+
+.Teachers-box-top img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  transition: ease-in-out 1s;
+}
+
+.Teachers-box-top img:hover {
+  scale: 1.2;
+  rotate: -5deg;
+}
+
+
+
+.About-section {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.About-section-right {
+  width: 100%;
+  padding: 3rem 4rem;
+  /* border: 1px solid; */
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.About-section-right-top {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  /* border: 1px solid; */
+}
+
+.About-section-right-top h6 {
+  color: blue;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.About-section-right-top h2 {
+  color: rgb(0, 0, 0);
+  font-size: 38px;
+  font-weight: 800;
+}
+
+.About-section-right-top p {
+  color: rgb(122, 122, 122);
+  line-height: 30px;
+}
+
+.About-section-right-bottom {
+  width: 100%;
+  /* border: 1px solid */
+}
+
+.About-section-right-bottom ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.About-section-right-bottom ul li i {
+  width: 15%;
+  font-size: 30px;
+  /* border: 1px solid; */
+  padding-right: 1rem;
+  text-align: center;
+}
+.About-section-left{
+  width: 100%;
+  height: fit-content;
+  padding: 2rem;
+  display: flex;
+  gap: 1rem;
+}
+.About-section-left-top{
+  width: 50%;
+  height: 500px;
+}
+.About-section-left-bottom{
+  width: 50%;
+  height: 500px;
+  margin-top: 4rem;
+}
+.About-section-left img{
+ width: 100%;
+ height: 100%;
+ object-fit: cover;
+}
+}
+@media screen and (max-width: 680px) {
+  header {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    background-color: rgb(2, 129, 255);
+  }
+
+  .dropMenuBtn {
+    display: flex;
+  }
+
+  .header-left-Section {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: black; */
+    z-index: 2;
+    padding: 1rem;
+  }
+
+  .herder-right-section {
+    width: 100%;
+    transition: 0.4s;
+    z-index: 1;
+    background-color: rgb(2, 129, 255);
+    position: absolute;
+    top: 50px;
+    height: 200px;
+    /* display: none; */
+  }
+
+  .hide {
+    width: 100%;
+    transition: 0.5s;
+    top: -200px;
+    /* display: none; */
+    height: 0px;
+  }
+
+  .my-ul{
+    width: 100%;
+    flex-direction: column;
+    margin: 10px 0rem 0rem 0rem;
+    transition: 0.4s;
+    position: absolute;
+    left: -10px;
+    top: 0px;
+  } 
+  .moveLeft{
+    transition: 0.4s;
+    left: -200px;
+    top: -100px;
+    height: 0px;
+  
+  }
+  .spand{
+    letter-spacing: 47px;
+    opacity: 0;
+    transition: 0.4s;
+  }
+
+  .b::after{
+    width: 0px;
+  }
+
+  .hero-section {
+    height: fit-content;
+  }
+
+  .section-left {
+    width: 100%;
+    padding: 1rem;
+  }
+
+  .section-left-titel {
+    font-size: 24px;
+
+  }
+
+  .section-right {
+    display: none;
+  }
+  
+.Welcome-section {
+  flex-direction: column-reverse;
+}
+
+.welcom-section-left {
+  width: 100%;
+}
+
+.welcom-section-left-titel {
+  padding-top: 1rem;
+  font-size: 34px;
+}
+
+.welcom-section-left-para {
+  font-size: 16px;
+}
+
+.welcom-section-right {
+  width: 100%;
+}
+
+/* PAr */
+
+.Catagori-Section {
+  margin-top: 3rem;
+}
+
+.Catagori-Section-intro {
+  width: 100%;
+}
+
+.Catagori-Section-intro p {
+  font-size: 16px;
+  color: rgb(25, 25, 247);
+}
+
+.Catagori-Section-titel {
+  font-size: 18px;
+}
+
+.Catagori-Section-courses {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 4rem;
+  gap: 1rem;
+}
+
+.courses-box {
+  width: 100%;
+}
+
+
+.Catagori-Section-Btn {
+  padding: 1rem;
+}
+
+.Courses-Section {
+  width: 100%;
+  height: fit-content;
+  margin-top: 3rem;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 2rem;
+}
+
+
+.Courses-Section-para p {
+  font-size: 14px;
+  color: rgb(25, 25, 247);
+}
+
+.Courses-Section-titel {
+  font-size: 20px;
+}
+
+.Courses-Section-box {
+  padding: 4rem;
+  gap: 1rem;
+}
+
+.Courses-div {
+  width: 100%;
+
+}
+
+.Course-box-img {
+  width: 100%;
+  height: fit-content;
+  overflow: hidden;
+  transition: 1s;
+}
+
+.Course-box-img img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  transition: 1s;
+  scale: 1.2;
+}
+
+.Course-box-img img:hover {
+  scale: 1.1;
+}
+
+
+.Course-box-titel {
+  width: 100%;
+  height: fit-content;
+  /* border: 1px solid rgba(0, 0, 0, 0.363); */
+}
+
+.Course-box-titel h2 {
+  font-size: 22px;
+}
+
+
+.Teacher-Contanier {
+  margin-top: 2rem;
+}
+
+.Teacher-Contanier-intro p {
+  text-align: center;
+  color: rgb(253, 253, 253);
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+.Teacher-Contanier-titel h2 {
+  font-size: 34px;
+}
+
+.Teacher-Contanier-div {
+  width: 100%;
+  height: 400px;
+  /* border: 1px solid; */
+  padding: 2rem;
+  display: flex;
+  /* flex-direction: row; */
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 1rem;
+  overflow: auto;
+  /* overscroll-behavior: x; */
+}
+
+.Teachers-box {
+  width: 100%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  /* border: 1px solid; */
+  /* scroll-snap-align: center; */
+}
+
+.Teachers-box-top {
+  width: 100%;
+  overflow: hidden;
+}
+
+.Teachers-box-top img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  transition: ease-in-out 1s;
+}
+
+.Teachers-box-top img:hover {
+  scale: 1.2;
+  rotate: -5deg;
+}
+
+
+
+.About-section {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  flex-direction: column-reverse;
+  padding: 1rem;
+}
+
+.About-section-right {
+  width: 100%;
+  padding: 3rem 4rem;
+  /* border: 1px solid; */
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.About-section-right-top {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  /* border: 1px solid; */
+}
+
+.About-section-right-top h6 {
+  color: blue;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.About-section-right-top h2 {
+  color: rgb(0, 0, 0);
+  font-size: 38px;
+  font-weight: 800;
+}
+
+.About-section-right-top p {
+  color: rgb(122, 122, 122);
+  line-height: 30px;
+}
+
+.About-section-right-bottom {
+  width: 100%;
+  /* border: 1px solid */
+}
+
+.About-section-right-bottom ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.About-section-right-bottom ul li i {
+  width: 15%;
+  font-size: 30px;
+  /* border: 1px solid; */
+  padding-right: 1rem;
+  text-align: center;
+}
+.About-section-left{
+  width: 100%;
+  height: fit-content;
+  padding: 2rem;
+  display: flex;
+  gap: 1rem;
+}
+.About-section-left-top{
+  width: 50%;
+  height: 500px;
+}
+.About-section-left-bottom{
+  width: 50%;
+  height: 500px;
+  margin-top: 4rem;
+}
+.About-section-left img{
+ width: 100%;
+ height: 100%;
+ object-fit: cover;
+}
+}
