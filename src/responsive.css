@@ -335,14 +335,13 @@
     position: absolute;
     top: 50px;
     height: 200px;
-    /* display: none; */
+
   }
 
   .hide {
     width: 100%;
     transition: 0.5s;
     top: -200px;
-    /* display: none; */
     height: 0px;
   }
 
